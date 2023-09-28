@@ -24,5 +24,3 @@ I have extensive experience in various programming languages and frameworks, inc
 - Mongo DB
 
 Looking for a funny meme [click here](https://cdn.memes.com/up/40596771562227877/i/1562532160845.jpg).
-
-
