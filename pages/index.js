@@ -1,4 +1,4 @@
-import { About, Intro } from "../components/Intro";
+import { About, CISProj, Intro } from "../components/Intro";
 import { Contact, Footer } from "../components/Footer";
 import { Projects, Skills } from "../components/Work";
 import React, { Fragment } from "react";
@@ -28,6 +28,7 @@ export default function Home() {
       />
       <About title={about.title} description={about.description} />
       <Skills title={work.title} cards={work.cards} />
+      <CISProj />
       <Projects title={projects.title} cards={projects.cards} />
       <Contact
         title={contact.title}
